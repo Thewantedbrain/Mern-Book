@@ -1,0 +1,4 @@
+
+header, nav{
+    z-index: 100001 !important;/* asigna un alto valor de índice z a los elementos seleccionados.important anula cualquier estilo conflictivo de otras hojas de estilo o de tus propias reglas CSS.*/
+}
